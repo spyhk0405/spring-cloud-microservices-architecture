@@ -1,0 +1,13 @@
+# User Service Config
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/userdb
+    username: postgres
+    password: postgres
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+jwt:
+  secret: mySecretKeyForJWTTokenGenerationThatIsVeryLongAndSecure123456789
+  expiration: 86400000

@@ -1,0 +1,9 @@
+# Configs para Config Server
+# Archivo de configuración común para todos los servicios
+
+spring:
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/configs
